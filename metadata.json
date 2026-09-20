@@ -1,0 +1,6 @@
+{
+  "name": "Dragon 9 Studio: Comedy Localization & Temporal Media Engine",
+  "description": "Automated stand-up comedy localization engine preserving timing and punchline impact, integrated with the Dragon 9 54-minute hour temporal system and digital content producer suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
